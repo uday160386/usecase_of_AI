@@ -1,1 +1,2 @@
-# usecase_of_AI
+# Usecases of AI in the field of Agriculture, Finance and Health
+
